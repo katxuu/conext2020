@@ -8,7 +8,7 @@ class About extends React.Component {
       <Card style={{ width: "70%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
     <Card.Img style={{elevation: '0' }} src="/2020_header.png" />
     <Card.Body>
-      <Card.Title>About Co-Next 2020 hi</Card.Title>
+      <Card.Title>About Co-Next 2020</Card.Title>
       <Card.Text>
         Co-Next is a recruiting and networking event that connects University of Michigan students holding feminine identities in all disciplines and of all ages with top firms in marketing, accounting, strategy consulting, finance, and more.  At the event, attendees have the opportunity to speak to and make personal connections with women leaders from top companies across the US.
       </Card.Text>
