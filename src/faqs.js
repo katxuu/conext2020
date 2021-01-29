@@ -10,7 +10,7 @@ class FAQs extends React.Component {
         <Container style = {{width: "80%",  justifyContent:'space-between'}}>
         <Row>
           <Card.Title>Who can attend Co-Next?</Card.Title>
-          <p>Any woman and people holding feminine identities in any undergraduate program at the University of Michigan may attend Co-Next. You do not have to be a Junior or Senior. In fact, we encourage Freshmen and Sophomores to attend since this will be a very practical experience. </p>
+          <p>Any woman and people holding feminine identities in any undergraduate program at the University of Michigan may attend Co-Next. You do not have to be a Junior or Senior. We encourage Freshmen and Sophomores to attend since this will be a very practical experience. </p>
         </Row>
         <Row>
           <Card.Title>Does it cost money to attend Co-Next?</Card.Title>
